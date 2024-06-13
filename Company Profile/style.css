@@ -1,0 +1,42 @@
+.banner {
+    background: url(Gambar/profile-picture-background-10tprnkqwqif4lyv.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nama {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.foto {
+    padding-top: 10%;
+}
+
+.hello {
+    padding-top: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.portofolio {
+    padding-top: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.contact {
+    padding-top: 8%;
+}
+
+.contact a {
+    color: black;
+}
